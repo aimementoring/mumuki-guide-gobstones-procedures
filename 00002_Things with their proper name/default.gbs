@@ -1,0 +1,23 @@
+procedure DrawBlackSquareSide3() {
+  Drop(Black)
+  Move(East)
+  Drop(Black)
+  Move(East)
+  Drop(Black)
+  Move(North)
+  Drop(Black)
+  Move(West)
+  Drop(Black)
+  Move(West)
+  Drop(Black)
+  Move(North)
+  Drop(Black)
+  Move(East)
+  Drop(Black)
+  Move(East)
+  Drop(Black)
+}
+
+program {
+  DrawBlackSquareSide3()
+}
