@@ -5,6 +5,6 @@ As we explained in the square example, we can start making differences between t
 
 When creating a procedure, we “teach” the computer to carry out a new task, which wasn't originally included in the language.
 
-It would be impossible to write a language which includes EVERYTHING that we may want to do, wouldn't it?
+It would be impossible to write a language that includes EVERYTHING that we may want to do, wouldn't it?
 
-> Now it´s your turn: write a procedure `Drop3Green` which drops 3 green stones in the **current cell** and a `program` which uses it.
+> Now it's your turn: write a procedure `Drop3Green` which drops 3 green stones in the **current cell** and a `program` which uses it.
