@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: "*"
-  inspection: DeclaresProcedure:Drop3Red
+  inspection: DeclaresProcedure:Drop3Green
 - binding: program
   inspection: Uses:Drop3Green
