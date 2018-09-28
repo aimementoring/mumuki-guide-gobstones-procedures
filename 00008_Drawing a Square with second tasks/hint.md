@@ -1,0 +1,2 @@
+Remember what we said some exercises before: we can imagine a 3x3 square like 3 lines of length 3 one on top of the other, can't we?
+Oh! Also, remember that DrawBlackLine3 already uses `ComeBack` when it finishes. 
