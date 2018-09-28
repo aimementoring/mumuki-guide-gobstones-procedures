@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: DrawBlackLine3
+  inspection: Uses:ComeBack
