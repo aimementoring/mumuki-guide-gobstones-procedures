@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: DrawLine3
+  inspection: Uses:ComeBack
+- binding: "*"
+  inspection: DeclaresComputationWithArity1:DrawLine3
