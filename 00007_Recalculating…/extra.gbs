@@ -9,5 +9,4 @@ procedure Grab(color){
 procedure ComeBack(){
   Move(West)
   Move(West)
-  Move(West)
 }
