@@ -5,3 +5,9 @@ procedure Drop(color){
 procedure Grab(color){
   RemoveStone(color)
 }
+
+procedure ComeBack(){
+  Move(West)
+  Move(West)
+  Move(West)
+}
