@@ -1,0 +1,1 @@
+Perfect, we already have our line, but there is a problem: the head is located in an uncomfortable position to draw the following one…
