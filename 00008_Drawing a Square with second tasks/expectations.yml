@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: DrawBlackSquareSide3
+  inspection: Uses:DrawBlackLine3
+- binding: DrawBlackSquareSide3
+  inspection: Not:Uses:ComeBack
