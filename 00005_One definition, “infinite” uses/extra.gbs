@@ -5,3 +5,9 @@ procedure Drop(color){
 procedure Grab(color){
   RemoveStone(color)
 }
+
+procedure Drop3Green(){
+  Drop(Green)
+  Drop(Green)
+  Drop(Green)
+}
