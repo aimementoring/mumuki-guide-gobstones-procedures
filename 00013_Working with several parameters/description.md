@@ -5,6 +5,7 @@ Undoubtedly, we will need the user of the procedure to tell us, apart from the â
 Very easy, just like we do when writing, we will **separate every parameter using commas**.
 
 Look how it is:
+
 ```gobstones
 procedure DrawLine3(color, direction) {
   Drop(color)
@@ -14,6 +15,7 @@ procedure DrawLine3(color, direction) {
   Drop(color)
 }
 ```
+
 (In order to simplify the explanation, we will set aside the final position of the head for now. We will come back to that later on.)
 
 > Your job now is to write a program which uses the new version of `DrawLine3` (you don't need to create it, only use it) and draw a multicolored square like this one:
