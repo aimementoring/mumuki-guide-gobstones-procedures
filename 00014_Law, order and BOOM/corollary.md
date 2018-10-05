@@ -1,0 +1,2 @@
+Okey, it made BOOM, but what does “The argument of Drop should be a color” mean?
+Since we named the arguments in the opposite order, a direction appeared where a color was expected. Because the direction was meant to be used as argument of Drop, it ended up bringing about the self-destruction of the head, since Drop(North) or Drop(East) makes no sense at all and, as a consequence, it can't be executed.  
