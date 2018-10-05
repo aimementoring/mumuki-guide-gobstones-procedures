@@ -1,4 +1,4 @@
-As we explained in the previous exercise, procedures may have more than one **parameter** (or _small hole_). For instance, what would happen if we wanted that DrawLine3 worked to draw lines in any direction?
+As we explained in the previous exercise, procedures may have more than one **parameter** (or _small hole_). For instance, what would happen if we wanted DrawLine3 to draw lines in any direction?
 
 Undoubtedly, we will need the user of the procedure to tell us, apart from the “color”, which “direction” he/she wants the line to be drawn; and for that we need a **new parameter**. And how do we do this?
 

@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: program
+  inspection: Uses:DrawLine3
+- binding: "*"
+  inspection: Not:Declares:DrawLine3
