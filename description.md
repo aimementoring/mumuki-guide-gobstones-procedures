@@ -8,4 +8,3 @@ As you may imagine, with this 3 things, you can already solve many problems: dra
 
 Don't you believe us?
 Come with us to the first exercise!
-
