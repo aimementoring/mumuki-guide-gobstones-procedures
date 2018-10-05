@@ -24,3 +24,5 @@ while `Triad(Blue, Green, Red)` would do this:
     cell 2 0 Rojo 1
     head 2 0
 </gs-board>
+
+> Try the procedure `Triad`, which has to use 3 parameters.
