@@ -1,0 +1,1 @@
+As you can see, when using procedures we must give a value to each of their parameters, exactly **in the same order** in which they were defined. This specific values we use when invoking a procedure are called **arguments**.
