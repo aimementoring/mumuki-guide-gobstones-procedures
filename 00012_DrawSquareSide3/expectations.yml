@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: DrawSquareSide3
+  inspection: Uses:DrawLine3
+- binding: "*"
+  inspection: DeclaresComputationWithArity1:DrawSquareSide3
