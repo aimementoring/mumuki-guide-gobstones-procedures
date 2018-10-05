@@ -1,0 +1,15 @@
+procedure Drop(color){
+  PutStone(color)
+}
+
+procedure Grab(color){
+  RemoveStone(color)
+}
+
+procedure DrawSquareSide3(color, direction){
+DrawLine3(color)
+Move(direction)
+DrawLine3(color)
+Move(direction)
+DrawLine3(color)
+}
