@@ -7,5 +7,5 @@ If you came so far, then you already know:
 As you may imagine, with this 3 things, you can already solve many problems: draw the Australian flag, write your name, make a drawing of your house, etc. But sooner than later, these tools won't be enough, and your program will turn into such a complex code that you won't be able to understand it.
 
 Don't you believe us?
-Come with us to the first exercise! 
+Come with us to the first exercise!
 
