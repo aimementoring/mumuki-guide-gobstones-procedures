@@ -10,3 +10,12 @@ procedure ComeBack(){
   Move(West)
   Move(West)
 }
+
+procedure DrawLine3(color){
+  Drop(color)
+  Move(East)
+  Drop(color)
+  Move(East)
+  Drop(color)
+  ComeBack()
+}
