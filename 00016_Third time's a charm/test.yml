@@ -17,9 +17,9 @@ examples:
      cell 2 0 Verde 1
      head 2 0
  - arguments:
-    - Azul
-    - Verde
-    - Rojo
+    - Blue
+    - Green
+    - Red
    initial_board: |
      GBB/1.0
      size 3 1
